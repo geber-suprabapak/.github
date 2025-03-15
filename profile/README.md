@@ -1,4 +1,4 @@
-# Selamat datang di Org untuk Skanida Apps
+# Selamat datang di Org untuk develop aplikasi something 👀👀👀
 
 ## Guide Kontribusi
 - Fork repo yang mau di contribute
