@@ -1,6 +1,4 @@
-# Selamat datang di Org untuk develop aplikasi something 👀👀👀
+# Selamat datang di hub development Skanida Apps
 
-## Guide Kontribusi
-- Fork repo yang mau di contribute
-- Install semua dependency (Cek README masing masing repo)
-- Buat Pull Request jika mau contribute ke main repo
+## Guide Kontribusi publik
+- Buat Issue dengan tag Enhancement dan buat PR
