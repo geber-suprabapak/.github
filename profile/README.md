@@ -2,7 +2,7 @@
   <img src="https://images.cooltext.com/5735159.gif" alt="SMKN 2 Kota Magelang Dev Hub Banner" height="100" width="1000"/>
 </p>
 
-<h2 align="center"><code>🔥 Making awesome apps since 2024 🔥</code></h2>
+<h2 align="center"><code>🔥 Making awesome apps since 2025 🔥</code></h2>
 
 ## 💡 Kontribusi
 - <b>📝 <a href="https://github.com/geber-suprabapak/skanida-apps-mobile/issues">Buat Issue</a></b><br>
