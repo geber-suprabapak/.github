@@ -9,8 +9,6 @@
   Laporkan bug, usul fitur, atau pertanyaan.
 - <b>✨ <a href="https://github.com/geber-suprabapak/skanida-apps-mobile/pulls">Pull Request</a></b><br>
   Ajukan perbaikan/fitur baru dengan penjelasan jelas.
-- <b>📦 <a href="https://github.com/geber-suprabapak/skanida-apps-mobile">Repo Publik: skanida-apps-mobile</a></b>
-
 ---
 
 <p align="center"><b>🚀 Terima kasih atas kontribusi dan dukungan Anda!</b></p>
